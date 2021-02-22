@@ -1,2 +1,2 @@
 # WAND-Algorithm
-The work reiteration the thesis -- &lt;Exploring the Magic of WAND>.
+The work reiterate the thesis -- &lt;Exploring the Magic of WAND>.
